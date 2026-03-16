@@ -18,7 +18,9 @@ You can use the generator directly here:
 
 ## 📸 Screenshot
 
-![Passphrase Generator Screenshot](screenshot.png)
+<p align="center">
+  <img src="screenshot.png" width="500">
+</p>
 
 ---
 
