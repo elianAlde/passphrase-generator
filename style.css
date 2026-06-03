@@ -5,8 +5,12 @@
     background: #f8f9fa;
     border-radius: 8px;
 
-    white-space: nowrap;
-    overflow-x: auto;
+    /*white-space: nowrap;
+    overflow-x: auto;*/
+
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: break-word;
 }
 
 .progress-bar {

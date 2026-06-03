@@ -2,8 +2,8 @@ const WORDLISTS = {}
 
 async function loadWordlists() {
     const datasets = {
-        english: "english-dataset.txt",
-        italian: "italian-dataset.txt"
+        en: "english-dataset.txt",
+        it: "italian-dataset.txt"
     }
 
     for (const [name, file] of Object.entries(datasets)) {
