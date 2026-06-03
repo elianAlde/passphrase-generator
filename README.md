@@ -1,4 +1,16 @@
+<div align="center">
+
 # 🔒 Diceware Passphrase Generator
+
+![Status](https://img.shields.io/badge/status-stable-success)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://elianAlde.github.io/passphrase-generator/)
+
+</div>
 
 A simple, secure **Diceware passphrase generator** built with **HTML, JavaScript and Bootstrap 5**.
 
